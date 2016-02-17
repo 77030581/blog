@@ -1,0 +1,5 @@
+{
+    "src": "/Development/blog/cdn/use-qiniu-store-image-for-hexo",
+    "dest": "qiniu:access_key=_XT6Eey_Mn9tuUKgWMiM9k6Vnt3wk-kSwgxaE9iy&secret_key=slWptCWeUj07ddb5OkRqBAs-DnG8BQjWjR4j_Z9C&bucket=chrishuihui",
+    "debug_level": 1
+}
